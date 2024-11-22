@@ -1,4 +1,4 @@
-//ZHLSpaintboard v1.0.0
+# ZHLSpaintboard v1.0.0
 import requests
 from PIL import Image
 import time
